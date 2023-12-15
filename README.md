@@ -5,11 +5,9 @@
 
 - 🔭 I’m currently working on [life capture](https://lifecapture.life/)
 
-- 🌱 I’m currently learning **html, css, javascript**
+- 🌱 I’m currently learning **html, css, javascript, bootstrap, Ruby on Rail, SQL, figmas**
 
-- 👨‍💻 All of my projects are available at [https://polite-dodo-939.notion.site/John-Doe-Web-Development-e5d465d3d1ca4bc0ad1a4b8cc36022d2?pvs=4](https://polite-dodo-939.notion.site/John-Doe-Web-Development-e5d465d3d1ca4bc0ad1a4b8cc36022d2?pvs=4)
-
-- 💬 Ask me about **ruby, bootstrap**
+- 👨‍💻 All of my projects are available at :
 
 - 📫 How to reach me **morellialexander1@gmail.com**
 
